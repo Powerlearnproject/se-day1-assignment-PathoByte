@@ -79,6 +79,6 @@ Importance- it makes one's questions specific and clear so the AI understands wh
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 vague prompt - tell me about cells
-improved prompt - explain the structure and functionof human cells focusing on the cell membrane,nucleus, cytoplasm and mitochondria.
+improved prompt - explain the structure and function of human cells focusing on the cell membrane, nucleus, cytoplas,m and mitochondria.
 
-improved prompt is more effective because it is clear, specific and concise.
+improved prompt is more effective because it is clear, specific, and concise 
